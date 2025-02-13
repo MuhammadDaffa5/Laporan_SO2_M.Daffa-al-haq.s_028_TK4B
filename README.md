@@ -83,4 +83,27 @@ Judul praktikum : 50 command linux <br>
     <img src="https://github.com/user-attachments/assets/1fc1ff4c-fb99-4721-b895-ea3413165aa3" alt="Image" width="300"> <br>
 38. rm [file], untuk menghapus file <br>
     <img src="https://github.com/user-attachments/assets/6199f07b-412b-4930-9166-680aa14dd2f2" alt="Image" width="400"> <br>
-
+39. nano [file], merupakan editor teks berbasis terminal <br>
+    <img src="https://github.com/user-attachments/assets/a5b53f7e-5393-4096-8af0-9231daf65104" alt="Image" width="400"> <br>
+40. rm [file], menghapus file <br>
+    <img src="https://github.com/user-attachments/assets/ffe873f7-424c-49a2-aad8-d0d9958ac538" alt="Image" width="400"> <br>
+41. stat [file.txt], menampilkan informasi detail tentang file <br>   
+    <img src="https://github.com/user-attachments/assets/bfa1f31c-7ba5-4a64-abc8-be393b12fab2" alt="Image" width="400"> <br>
+42. time ls, mengukur waktu eksekusi suatu perintah <br>
+    <img src="https://github.com/user-attachments/assets/4f8203b7-5a2a-4412-b1fb-88c1d03f545e" alt="Image" width="400"> <br>
+43. top, menampilkan proses secara real time <br>
+    <img src="https://github.com/user-attachments/assets/04e048ca-0872-4938-946d-f58513636fae" alt="Image" width="400"> <br>
+44. touch [file], membuat file baru <br>
+    <img src="https://github.com/user-attachments/assets/a085585d-0e93-4acc-81e0-b259c30f9275" alt="Image" width="400"> <br>
+45. uname -a, menampilkan informasi sistem <br>
+    <img src="https://github.com/user-attachments/assets/403daff4-bc69-4cd6-8e8b-be7f3acf39a9" alt="Image" width="400"> <br>
+46. uptime, menampilkan waktu aktif sistem sejak booting <br>
+    <img src="https://github.com/user-attachments/assets/958c8ccb-bfe4-4359-b7a2-9ee64794b0f1" alt="Image" width="400"> <br>
+47. kill, menghentikan proses yang berjalan <br>
+    <img src="https://github.com/user-attachments/assets/bf45fcd0-3c90-4246-8ec9-74b693d93d8c" alt="Image" width="400"> <br>
+48. vim [file], membuka file dengan editor vim <br>
+    <img src="https://github.com/user-attachments/assets/8cd2f75c-3c3c-4e6b-8149-77ea176c41ae" alt="Image" width="300"> <br>
+49. grep -r "contoh", untuk mencari teks contoh dalam file <br>
+    <img src="https://github.com/user-attachments/assets/b26595bb-ac76-4ecf-84d1-1b4f620b107c" alt="Image" width="400"> <br>
+50. exit, berfungsi untuk keluar dari terminal yang sedang digunakan <br>
+    <img src="https://github.com/user-attachments/assets/ba491400-9700-4687-8035-4d4997b8848c" alt="Image" width="400"> <br>
